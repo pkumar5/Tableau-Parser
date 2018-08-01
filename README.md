@@ -9,6 +9,8 @@ java -jar "TWB_Parser.jar"
 
 To run the java excutiable application double click "TWB_Parser.jar"
 
+Note: A TWBX file is a ZIP file, if you have to recover a TWB file from within a TWBX rename the <file>.twbx file to <file>.zip to explore its contents. 
+
 Changes from V1.0: 
 1. Calculated Fields that contained Tableau "Calculation_<number>" now contain the Calculation Name.
 2. Datasources that Contained "sqlproxy.<number>" now contain the Datasource Name.
