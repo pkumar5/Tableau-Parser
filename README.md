@@ -1,5 +1,4 @@
 # Tableau-Parser V2.0 updated July 2018
-# Created by Praveen Kumar.
 
 This JAVA application extracts the Calculated Fields from a Tableau TWB (Tableau Workbook File) file into a text file.
 The text output file is saved in the same directory as the TWB file.
