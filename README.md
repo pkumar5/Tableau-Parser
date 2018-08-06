@@ -13,5 +13,5 @@ Note:
 2. The following application has been tested on tableau 10.2 
 
 Changes from V1.0: 
-1. Calculated Fields that contained Tableau "Calculation_<number>" now contain the Calculation Name.
-2. Datasources that Contained "sqlproxy.<number>" now contain the Datasource Name.
+1. Calculated Fields that contained Tableau "Calculation_<number>" now displays the Calculation Name.
+2. Datasources that Contained "sqlproxy.<number>" now displays the Datasource Name.
